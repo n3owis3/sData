@@ -4,10 +4,6 @@
 #              základné formátovanie údajov
 # testovanie zmeny kodu
 # testovanie zmeny kodu
-print("kokot si ")
-print("kokot si (po druhe)")
-print("kokot si (po tretie)")
-print("kokot si (po 4)")
 
 
 # Načítanie R balíkov ---------------------------------------------------
