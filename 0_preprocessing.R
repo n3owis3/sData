@@ -3,6 +3,8 @@
 # DESCRIPTION: Preprocesing dat - Kaufland
 #              základné formátovanie údajov
 # testovanie zmeny kodu
+# testovanie zmeny kodu
+print("kokot si ")
 
 # Načítanie R balíkov ---------------------------------------------------
 
