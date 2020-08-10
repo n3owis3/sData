@@ -5,6 +5,7 @@
 # testovanie zmeny kodu
 # testovanie zmeny kodu
 print("kokot si ")
+print("kokot si (po druhe)")
 
 # Načítanie R balíkov ---------------------------------------------------
 
