@@ -2,7 +2,7 @@
 
 # DESCRIPTION: Preprocesing dat - Kaufland
 #              základné formátovanie údajov
-
+# testovanie zmeny kodu
 
 # Načítanie R balíkov ---------------------------------------------------
 
